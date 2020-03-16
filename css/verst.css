@@ -19,22 +19,35 @@ h1 {
    font-style: normal;
    font-weight: bold;
    font-size: 144px;
-   line-height: 144px;
+   line-height: 200px;
    position: relative;
    text-align: center;
 
 }
 
+h2 {
+   font-family: 'Helvetica', sans-serif;
+   color:black;
+   font-weight: lighter;
+   font-size: 80px;
+   line-height: 120px;
+   letter-spacing: 0,4em;
+   position: relative;
+   text-align: center;
+}
+
 p {
-   font-family: 'Oswald', sans-serif;
+   font-family: 'Helvetica', sans-serif;
    color:black;
    font-weight: lighter;
    font-size: 80px;
    line-height: 100px;
-   letter-spacing: 0,2em;
+   letter-spacing: 0,4em;
    position: relative;
    text-align: center;
 }
+
+
 
 main {
    height: 100%;
